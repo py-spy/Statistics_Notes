@@ -1,0 +1,29 @@
+Binomial Setting:
+If you read a question and each trial has only 2 outcomes
+(pass/fail, heads/tails), you could have a binomial setting
+
+1. Each obsevation is either success or failure
+2.There is a fixed number 'n' observations
+3. All observations are independent
+4. The probability of success is constant
+
+When determing if there is a binomial setting, the independence check
+can be tricky. If the population is 10 times greater than the sample
+sizwe, you can assume there is independence in a random selection.
+
+Binomial Distribution: It is a type of discrete random variable
+
+1. X is defined as number of success
+2. n trials
+3. p probability of success
+
+X can take on whole number values between 0 and n with
+a distribution of B(n,P)
+
+How many ways can you have 'k' success out of 'n' observations
+Binomial Coefficient = n!/k!(n-k)!
+
+What is teh probability of observing 'k' successes from n observations
+
+Binomial Probability : binomial coeffecient(p^k)[(1-p)^ n-k] =
+n!/k!(n-k)!(p^k)[(1-p)^ n-k]
