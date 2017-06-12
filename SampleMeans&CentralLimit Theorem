@@ -1,0 +1,24 @@
+Sample Means:
+If you are analyzing multiple observations and each one has more
+than just two outcomes(like pass/fail, yes/no), then you may be
+setting up a sample mean variable, like gpa, blood pressure, shoe 
+size etc.
+
+Means of random samples are less variable than indivivdual 
+observations
+
+The Central Limit Theorem explains how the distribution of
+means are more normal than the individual observations.
+
+Checks for working with Means
+
+1. Random selection from SRS
+2. Independent observation (pop must be 10 times > sample)
+3, Normality, Stated or due to Central Limit Theorem
+
+Required Size of samples(n) for Central Limit Theorem to ensure 
+Normality for the distribution of averages
+
+n<15 for raw data that is approx normal
+15 <= n <= 30 if raw data has no outliers or strong skewness
+n>=30 if data has outliers or strong skewness
